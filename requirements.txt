@@ -1,0 +1,3 @@
+argparse        # Built-in, no installation needed
+base64          # Built-in, no installation needed
+cryptography    # Optional, for AES encryption of strings
