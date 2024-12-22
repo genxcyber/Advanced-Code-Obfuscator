@@ -146,5 +146,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 🌐 Author
 
-Created by **[Your Name](https://github.com/genxcyber)**  
+Created by **[GenXCyber](https://github.com/genxcyber)**  
 For more tools and tutorials, visit **[GenX Cyber](https://genxcyber.com/tools/)**.
