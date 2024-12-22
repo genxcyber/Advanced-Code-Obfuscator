@@ -23,7 +23,7 @@ The **Advanced Code Obfuscator** is a powerful tool designed for developers and 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/Advanced-Code-Obfuscator.git
-   cd advanced-code-obfuscator
+   cd Advanced-Code-Obfuscator
    ```
 
 2. **Install Dependencies**:
